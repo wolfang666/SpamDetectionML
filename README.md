@@ -160,6 +160,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## Author
 
 **Shuvrajyoti Nath Mohajohn**  
-[GitHub](https://github.com/ShuvrajyotiN)
+[GitHub](https://github.com/wolfang666)
 
 ---
